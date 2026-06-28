@@ -1,3 +1,6 @@
+// Basic Array Implementation
+// Supports insert, delete, append, operations
+
 #include <iostream>
 using namespace std;
 
