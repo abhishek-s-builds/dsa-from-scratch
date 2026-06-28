@@ -1,3 +1,6 @@
+//  Array with copy constructor Implementation
+// Supports insert, delete, append, copy operations
+
 #include <iostream>
 #include <stdio.h>
 
