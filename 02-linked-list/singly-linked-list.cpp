@@ -1,3 +1,6 @@
+// Singly Linked List Implementation
+// Supports insertion, deletion, searching and editing
+
 #include <iostream>
 using namespace std;
 
